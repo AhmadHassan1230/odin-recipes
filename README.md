@@ -1,1 +1,1 @@
-"hello Odin yesyes"
+This is a website with links to other pages that show us different recipes.
