@@ -1,3 +1,36 @@
-a{
-    margin : 10px;
+body{
+    background:radial-gradient(white,white,rgb(190, 167, 113))
+   
 }
+
+
+.hii{
+    font-size:15px;
+    font-family:bradley hand, cursive;
+    background-color: rgba(255,255,255,0.5);
+    font-size:20px;
+}
+
+#hi:hover{
+    background-color:rgb(160, 187, 167);
+    font-size:23px;
+    animation:linear(white,red)
+
+    
+
+}
+.image1{
+    opacity:0.92;
+}
+
+.image1:hover{
+    
+    opacity:2.3;
+}
+
+h1{
+  
+    font-size:70px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
